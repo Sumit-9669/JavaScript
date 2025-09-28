@@ -1,0 +1,20 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ArrowFunction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumit-9669/JavaScript.git"
+  },
+  "author": "Sumit Pande",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumit-9669/JavaScript/issues"
+  },
+  "homepage": "https://github.com/Sumit-9669/JavaScript#readme"
+}
